@@ -25,10 +25,10 @@
 #' @author Adelle Price, \email{adelle.price@cuanschutz.edu}
 #' @author Hayley Wolff, \email{hayley.wolff@cuanschutz.edu}
 #' @author Audrey Hendricks, \email{audrey.hendricks@cuanschutz.edu}
-#' @references https://github.com/hendriau/Summix
+#' @references https://github.com/hendriau/Summix2
 #' @keywords genetics, mixture distribution, admixture, population stratification
 #'
-#' @seealso \url{https://github.com/hendriau/Summix} for further documentation.
+#' @seealso \url{https://github.com/hendriau/Summix2} for further documentation.
 #'
 #'
 #' @examples

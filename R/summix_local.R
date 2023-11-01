@@ -50,14 +50,14 @@
 #' @author Hayley Wolff (Stoneman), \email{hayley.wolff@cuanschutz.edu}
 #' @author Audrey Hendricks, \email{audrey.hendricks@cuanschutz.edu}
 #'
-#' @references https://github.com/hendriau/Summix
+#' @references https://github.com/hendriau/Summix2
 #'
 #' @keywords genetics, mixture distribution, admixture, population stratification, local ancestry
 #'
 #' @importFrom stats "sd" "pt"
 #' @importFrom dplyr "arrange"
 #'
-#' @seealso \url{https://github.com/hendriau/Summix} for further documentation.
+#' @seealso \url{https://github.com/hendriau/Summix2} for further documentation.
 #'
 #'
 #' @examples
