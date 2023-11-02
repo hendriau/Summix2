@@ -66,10 +66,10 @@ adjusted_data$adjusted.AF[1:5,]
 
 }
 \references{
-https://github.com/hendriau/Summix
+https://github.com/hendriau/Summix2
 }
 \seealso{
-\url{https://github.com/hendriau/Summix} for further documentation.
+\url{https://github.com/hendriau/Summix2} for further documentation.
 }
 \author{
 Adelle Price, \email{adelle.price@cuanschutz.edu}

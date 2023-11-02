@@ -60,10 +60,10 @@ summix(data = ancestryData,
 
 }
 \references{
-https://github.com/hendriau/Summix
+https://github.com/hendriau/Summix2
 }
 \seealso{
-\url{https://github.com/hendriau/Summix} for further documentation. \code{\link[nloptr]{slsqp}} function in the nloptr package for further details on Sequential Quadratic Programming \url{https://www.rdocumentation.org/packages/nloptr/versions/1.2.2.2/topics/slsqp}
+\url{https://github.com/hendriau/Summix2} for further documentation. \code{\link[nloptr]{slsqp}} function in the nloptr package for further details on Sequential Quadratic Programming \url{https://www.rdocumentation.org/packages/nloptr/versions/1.2.2.2/topics/slsqp}
 }
 \author{
 Adelle Price, \email{adelle.price@cuanschutz.edu}
